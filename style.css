@@ -1,4 +1,8 @@
 
+body{
+
+    margin: 0;
+}
 p{
 
     color: black;
@@ -24,13 +28,15 @@ h1{
 .banner-section{
 
     display: flex;
+    padding-left: 70px;
     
 }
 
 .perfect{
 
-    margin-top: 150px;
+    margin-top: 120px;
 }
+
 .top-banner img{
     
     background-image: url(./eat-healthy/images/shapes//Group\ 8449.png);
@@ -38,4 +44,5 @@ h1{
     background-position: top;
     padding-left: 50px;
     width: 550px;
+    padding-right: 5px;
 }
