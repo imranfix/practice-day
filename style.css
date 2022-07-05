@@ -74,11 +74,24 @@ h1{
 }
 
 .text-edit{
-    background-image: url(./eat-healthy/images/shapes/Frame\ 59.jpg);
+    background-image: url(./eat-healthy/images/shapes/Frame\ 59.jpgp)
 }
 
 .about-section{
 
     text-align: center;
     padding-right: 250px;
+}
+
+.test-sec{
+
+    display: flex;
+    width: 100%;
+    
+}
+ 
+.test-sec img{
+
+    width: 400px;
+    height: auto;
 }
