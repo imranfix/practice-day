@@ -2,6 +2,7 @@
 body{
 
     margin: 0;
+    margin-left: 300px;
 }
 p{
 
@@ -23,9 +24,10 @@ h1{
     border-radius: 20px;
     border-style: none;
     color: white;
+    margin-top: 9px;
    
 }
-.banner-section{
+.header-section{
 
     display: flex;
     padding-left: 70px;
@@ -45,4 +47,32 @@ h1{
     padding-left: 50px;
     width: 550px;
     padding-right: 5px;
+}
+
+.banner-section{
+
+    display: flex;
+    padding-left: 70px;
+    margin-top: 60px;
+    
+}
+.text-tag{
+    text-align: left;
+}
+
+.text-edit{
+
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 200px; 
+}
+
+.banner-section img{
+
+    background-image: url(./eat-healthy//images/shapes//Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.text-edit{
+    background-image: url(./eat-healthy/images/shapes/Frame\ 59.jpg);
 }
