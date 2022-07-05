@@ -1,0 +1,41 @@
+
+p{
+
+    color: black;
+}
+h1{
+    font-size: 60px;
+    color: green;
+}
+
+.orange-color{
+
+    color: orange;
+}
+.button-btn{
+
+    padding: 10px 15px;
+    background-color:tomato;
+    border-radius: 20px;
+    border-style: none;
+    color: white;
+   
+}
+.banner-section{
+
+    display: flex;
+    
+}
+
+.perfect{
+
+    margin-top: 150px;
+}
+.top-banner img{
+    
+    background-image: url(./eat-healthy/images/shapes//Group\ 8449.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-left: 50px;
+    width: 550px;
+}
